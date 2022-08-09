@@ -34,4 +34,39 @@ body {
   padding: 50px 0; /*top/bottom left/right*/
   margin: 100px auto;
 }
+
+/* @media print {
+  /* .noprint {
+    display:none;
+   }
+    */
+/* * {
+    visibility: hidden;
+  } */
+
+/* .printarea * {
+    visibility: visible;
+  } */
+/* .header {
+    position: static;
+  } */
+/* .pagebreak {
+    page-break-after: always;
+  } */
+/* } */
+
+/* @page {
+  margin: 0;
+  /* size: portrait; */
+/* size: landscape; */
+
+/* size: auto; */
+
+/* size: A4; */
+/* size: A4 landscape; */
+/* size: legal;
+
+  size: 4in 6in; */
+
+/* } */
 /* 8JS */
